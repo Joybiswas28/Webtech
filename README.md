@@ -1,2 +1,1 @@
-# My Project
-This is my updated project.
+This is updated from GitHub
